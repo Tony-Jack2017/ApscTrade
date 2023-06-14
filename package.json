@@ -1,0 +1,10 @@
+{
+  "name": "ApisTrade",
+  "version": "1.0.0",
+  "description": "The K line",
+  "main": "index.js",
+  "repository": "https://github.com/Tony-Jack2017/ApisTrade.git",
+  "author": "LTX",
+  "license": "MIT",
+  "private": "true"
+}
