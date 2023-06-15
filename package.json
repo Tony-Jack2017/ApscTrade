@@ -6,5 +6,12 @@
   "repository": "https://github.com/Tony-Jack2017/ApisTrade.git",
   "author": "LTX",
   "license": "MIT",
-  "private": "true"
+  "private": "true",
+  "devDependencies": {
+    "lerna": "^6.5.1"
+  },
+  "workspaces": [
+    "packages/*",
+    "docs"
+  ]
 }
